@@ -1,3 +1,5 @@
 :HL["/_next/static/chunks/0o7.wx90wnyo9.css","style"]
-:HL["/_next/static/chunks/11p5wa8jijte7.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"uw1yw6sj9KcYm-vOcurRn"}
+:HL["/_next/static/chunks/0jz19~m2i7pxm.css","style"]
+:HL["/images/logo-mark.png","image"]
+:HL["/images/logo-mark-white.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"RndnCsm3XCkzh3Zq50inT"}
