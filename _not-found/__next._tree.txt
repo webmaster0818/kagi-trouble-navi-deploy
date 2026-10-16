@@ -2,4 +2,4 @@
 :HL["/_next/static/chunks/09x7r92pxiic7.css","style"]
 :HL["/images/logo-mark.png","image"]
 :HL["/images/logo-mark-white.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dxKYeYPIiR53nsaW7CJeb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ohk9cI1wVBC1N6CKL7QqB"}
